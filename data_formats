@@ -1,0 +1,20 @@
+Formats in values of each data source splat by " ":
+
+SURVEY_EMA:             responded time, ema order, answer1, answer2, answer3, answer4
+UNLOCK_DURATION:        start time, end time, duration
+CALLS:                  start time, end time, call type, duration
+ACTIVITY_TRANSITION:    start time, end time, activity type, duration
+ACTIVITY_RECOGNITION:   timestamp, activity type, confidence
+AUDIO_LOUDNESS:         timestamp, loudness
+TOTAL_DIST_COVERED:     start time, end time, distance(in meters)
+MAX_DIST_TWO_LOCATIONS: star time, end time, distance(in meters)
+RADIUS_OF_GYRATION:     start time, end time, value
+MAX_DIST_FROM_HOME:     start time, end time, distance(in meters)
+NUM_OF_DIF_PLACES:      start time, end time, number
+STDDEV_OF_DISPLACEMENT: start time, end time, value
+ANDROID_LIGHT:          timestamp, value
+ANDROID_STEP_DETECTOR:  timestamp
+GEOFENCE:               enter time, exit time, location id
+LOCATION_GPS:           timestamp, latitude, longitude, accuracy, altitude(in meters)
+SCREEN_ON_OFF:          start time, end time, duration
+APPLICATION_USAGE:      start time, end time, package name

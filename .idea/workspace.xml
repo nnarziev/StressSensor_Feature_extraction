@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="62d2573c-be22-4f5d-afb8-0b9e8f348021" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/StressSensor_feature_extraction$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1583935390926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1602497863">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="14" />
+          <entry key="project.open.time.0" value="9" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="35" />
+          <entry key="data_formats" value="4" />
+          <entry key="py" value="7" />
+          <entry key="pyi" value="2" />
+          <entry key="txt" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSV" value="28" />
+          <entry key="PLAIN_TEXT" value="23" />
+          <entry key="Python" value="7" />
+          <entry key="PythonStub" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="549" />
+          <entry key="csv" value="2" />
+          <entry key="data_formats" value="552" />
+          <entry key="dummy" value="30" />
+          <entry key="py" value="7410" />
+          <entry key="txt" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSV" value="2" />
+          <entry key="PLAIN_TEXT" value="593" />
+          <entry key="Python" value="7959" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1944">
+              <caret line="29" column="41" lean-forward="true" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+              <folding>
+                <element signature="e#901#910#0" expanded="true" />
+                <element signature="e#1754#1831#0" />
+                <element signature="e#1901#2013#0" />
+                <element signature="e#1936#2013#0" />
+                <element signature="e#2075#2508#0" />
+                <element signature="e#2129#2467#0" />
+                <element signature="e#2178#2467#0" />
+                <element signature="e#2209#2467#0" />
+                <element signature="e#2573#3696#0" />
+                <element signature="e#2582#2702#0" />
+                <element signature="e#2782#3320#0" />
+                <element signature="e#2831#3320#0" />
+                <element signature="e#2862#3320#0" />
+                <element signature="e#3108#3320#0" />
+                <element signature="e#3374#3523#0" />
+                <element signature="e#3542#3677#0" />
+                <element signature="e#3766#5749#0" />
+                <element signature="e#3775#3961#0" />
+                <element signature="e#4006#5217#0" />
+                <element signature="e#4055#5217#0" />
+                <element signature="e#4086#5217#0" />
+                <element signature="e#4336#5217#0" />
+                <element signature="e#5826#7661#0" />
+                <element signature="e#5835#6021#0" />
+                <element signature="e#6066#7129#0" />
+                <element signature="e#6115#7129#0" />
+                <element signature="e#6146#7129#0" />
+                <element signature="e#6344#7129#0" />
+                <element signature="e#7727#8461#0" />
+                <element signature="e#7736#7805#0" />
+                <element signature="e#7870#8177#0" />
+                <element signature="e#7919#8177#0" />
+                <element signature="e#7950#8177#0" />
+                <element signature="e#8531#8925#0" />
+                <element signature="e#8587#8881#0" />
+                <element signature="e#8636#8881#0" />
+                <element signature="e#8667#8881#0" />
+                <element signature="e#8988#9382#0" />
+                <element signature="e#9044#9338#0" />
+                <element signature="e#9093#9338#0" />
+                <element signature="e#9124#9338#0" />
+                <element signature="e#9456#9844#0" />
+                <element signature="e#9512#9800#0" />
+                <element signature="e#9561#9800#0" />
+                <element signature="e#9592#9800#0" />
+                <element signature="e#9918#10312#0" />
+                <element signature="e#9974#10268#0" />
+                <element signature="e#10023#10268#0" />
+                <element signature="e#10054#10268#0" />
+                <element signature="e#10381#10771#0" />
+                <element signature="e#10437#10727#0" />
+                <element signature="e#10486#10727#0" />
+                <element signature="e#10517#10727#0" />
+                <element signature="e#10851#11320#0" />
+                <element signature="e#10905#11278#0" />
+                <element signature="e#10954#11278#0" />
+                <element signature="e#10985#11278#0" />
+                <element signature="e#11437#12446#0" />
+                <element signature="e#11509#12404#0" />
+                <element signature="e#11567#12404#0" />
+                <element signature="e#11616#12404#0" />
+                <element signature="e#11867#12404#0" />
+                <element signature="e#11936#12404#0" />
+                <element signature="e#12008#12404#0" />
+                <element signature="e#12069#12404#0" />
+                <element signature="e#12513#16085#0" />
+                <element signature="e#12522#12902#0" />
+                <element signature="e#12947#15070#0" />
+                <element signature="e#12996#15070#0" />
+                <element signature="e#13027#15070#0" />
+                <element signature="e#13321#15070#0" />
+                <element signature="e#13466#13569#0" />
+                <element signature="e#16148#17073#0" />
+                <element signature="e#16221#16982#0" />
+                <element signature="e#16270#16982#0" />
+                <element signature="e#16355#16982#0" />
+                <element signature="e#16380#16861#0" />
+                <element signature="e#16924#16982#0" />
+                <element signature="e#17200#18952#0" />
+                <element signature="e#17209#17278#0" />
+                <element signature="e#17354#18933#0" />
+                <element signature="e#17409#18933#0" />
+                <element signature="e#17501#18798#0" />
+                <element signature="e#17562#18798#0" />
+                <element signature="e#17874#18798#0" />
+                <element signature="e#17945#18798#0" />
+                <element signature="e#18020#18798#0" />
+                <element signature="e#18077#18391#0" />
+                <element signature="e#18833#18933#0" />
+                <element signature="e#19039#19803#0" />
+                <element signature="e#19151#19612#0" />
+                <element signature="e#19713#19803#0" />
+                <element signature="e#19873#21734#0" />
+                <element signature="e#26271#29688#0" />
+                <element signature="e#29867#30137#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>1582189288468</find>
+      <find>1582260378479</find>
+      <find>67&quot;</find>
+      <find>1582257537323</find>
+      <find>audio</find>
+      <find>total</find>
+      <find>unlo</find>
+      <find>try</find>
+      <find>calls</find>
+      <find>aud</find>
+      <find>range</find>
+      <find>activity</find>
+      <find>SCREEN_ON_OFF</find>
+      <find>split</find>
+      <find>skip t</find>
+      <find>print(</find>
+      <find>get_sleep</find>
+      <find>ex:</find>
+      <find>&lt;=</find>
+      <find>in_range</find>
+      <find>get_sleep_duration</find>
+      <find>print</find>
+      <find>feature</find>
+      <find>duration(home</find>
+      <find>features</find>
+      <find>int(enter</find>
+      <find>fileno</find>
+      <find>\n</find>
+      <find>values.</find>
+      <find>skip</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/data_formats" />
+        <option value="$PROJECT_DIR$/package_to_category_map.txt" />
+        <option value="$PROJECT_DIR$/package_to_category_map.csv" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/features.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="546" />
+    <option name="y" value="-28" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="StressSensor_feature_extraction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StressSensor_feature_extraction" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\NSL\PycharmProjects\StressSensor_feature_extraction" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\NSL\PycharmProjects\StressSensor_feature_extraction" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
+      <module name="StressSensor_feature_extraction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\NSL\PycharmProjects\StressSensor_feature_extraction\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/features.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="StressSensor_feature_extraction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\NSL\PycharmProjects\StressSensor_feature_extraction\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/features.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62d2573c-be22-4f5d-afb8-0b9e8f348021" name="Default Changelist" comment="" />
+      <created>1582460872653</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582460872653</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16364606" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.30444205" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.29252437" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.4355363" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.15298508" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/nnarziev-SCREEN_ON_OFF-2020-23-02.csv" />
+    <entry file="file://$PROJECT_DIR$/features.csv" />
+    <entry file="file://$PROJECT_DIR$/ema.csv" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/re.pyi">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cat_group.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/featuresnnarziev@gmail.com.csv" />
+    <entry file="file://$PROJECT_DIR$/package_to_category_map.csv" />
+    <entry file="file://$PROJECT_DIR$/new.csv" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/datetime.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="228" column="8" selection-start-line="228" selection-start-column="8" selection-end-line="228" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#30#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_formats">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="17" selection-start-line="19" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1944">
+          <caret line="29" column="41" lean-forward="true" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+          <folding>
+            <element signature="e#901#910#0" expanded="true" />
+            <element signature="e#1754#1831#0" />
+            <element signature="e#1901#2013#0" />
+            <element signature="e#1936#2013#0" />
+            <element signature="e#2075#2508#0" />
+            <element signature="e#2129#2467#0" />
+            <element signature="e#2178#2467#0" />
+            <element signature="e#2209#2467#0" />
+            <element signature="e#2573#3696#0" />
+            <element signature="e#2582#2702#0" />
+            <element signature="e#2782#3320#0" />
+            <element signature="e#2831#3320#0" />
+            <element signature="e#2862#3320#0" />
+            <element signature="e#3108#3320#0" />
+            <element signature="e#3374#3523#0" />
+            <element signature="e#3542#3677#0" />
+            <element signature="e#3766#5749#0" />
+            <element signature="e#3775#3961#0" />
+            <element signature="e#4006#5217#0" />
+            <element signature="e#4055#5217#0" />
+            <element signature="e#4086#5217#0" />
+            <element signature="e#4336#5217#0" />
+            <element signature="e#5826#7661#0" />
+            <element signature="e#5835#6021#0" />
+            <element signature="e#6066#7129#0" />
+            <element signature="e#6115#7129#0" />
+            <element signature="e#6146#7129#0" />
+            <element signature="e#6344#7129#0" />
+            <element signature="e#7727#8461#0" />
+            <element signature="e#7736#7805#0" />
+            <element signature="e#7870#8177#0" />
+            <element signature="e#7919#8177#0" />
+            <element signature="e#7950#8177#0" />
+            <element signature="e#8531#8925#0" />
+            <element signature="e#8587#8881#0" />
+            <element signature="e#8636#8881#0" />
+            <element signature="e#8667#8881#0" />
+            <element signature="e#8988#9382#0" />
+            <element signature="e#9044#9338#0" />
+            <element signature="e#9093#9338#0" />
+            <element signature="e#9124#9338#0" />
+            <element signature="e#9456#9844#0" />
+            <element signature="e#9512#9800#0" />
+            <element signature="e#9561#9800#0" />
+            <element signature="e#9592#9800#0" />
+            <element signature="e#9918#10312#0" />
+            <element signature="e#9974#10268#0" />
+            <element signature="e#10023#10268#0" />
+            <element signature="e#10054#10268#0" />
+            <element signature="e#10381#10771#0" />
+            <element signature="e#10437#10727#0" />
+            <element signature="e#10486#10727#0" />
+            <element signature="e#10517#10727#0" />
+            <element signature="e#10851#11320#0" />
+            <element signature="e#10905#11278#0" />
+            <element signature="e#10954#11278#0" />
+            <element signature="e#10985#11278#0" />
+            <element signature="e#11437#12446#0" />
+            <element signature="e#11509#12404#0" />
+            <element signature="e#11567#12404#0" />
+            <element signature="e#11616#12404#0" />
+            <element signature="e#11867#12404#0" />
+            <element signature="e#11936#12404#0" />
+            <element signature="e#12008#12404#0" />
+            <element signature="e#12069#12404#0" />
+            <element signature="e#12513#16085#0" />
+            <element signature="e#12522#12902#0" />
+            <element signature="e#12947#15070#0" />
+            <element signature="e#12996#15070#0" />
+            <element signature="e#13027#15070#0" />
+            <element signature="e#13321#15070#0" />
+            <element signature="e#13466#13569#0" />
+            <element signature="e#16148#17073#0" />
+            <element signature="e#16221#16982#0" />
+            <element signature="e#16270#16982#0" />
+            <element signature="e#16355#16982#0" />
+            <element signature="e#16380#16861#0" />
+            <element signature="e#16924#16982#0" />
+            <element signature="e#17200#18952#0" />
+            <element signature="e#17209#17278#0" />
+            <element signature="e#17354#18933#0" />
+            <element signature="e#17409#18933#0" />
+            <element signature="e#17501#18798#0" />
+            <element signature="e#17562#18798#0" />
+            <element signature="e#17874#18798#0" />
+            <element signature="e#17945#18798#0" />
+            <element signature="e#18020#18798#0" />
+            <element signature="e#18077#18391#0" />
+            <element signature="e#18833#18933#0" />
+            <element signature="e#19039#19803#0" />
+            <element signature="e#19151#19612#0" />
+            <element signature="e#19713#19803#0" />
+            <element signature="e#19873#21734#0" />
+            <element signature="e#26271#29688#0" />
+            <element signature="e#29867#30137#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
