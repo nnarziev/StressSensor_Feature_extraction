@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62d2573c-be22-4f5d-afb8-0b9e8f348021" name="Default Changelist" comment="" />
+    <list default="true" id="62d2573c-be22-4f5d-afb8-0b9e8f348021" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_formats" beforeDir="false" afterPath="$PROJECT_DIR$/data_formats" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,21 +32,21 @@
     <session id="-1602497863">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
-          <entry key="project.open.time.0" value="9" />
+          <entry key="project.closed" value="16" />
+          <entry key="project.open.time.0" value="11" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="15" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="csv" value="35" />
-          <entry key="data_formats" value="4" />
+          <entry key="csv" value="36" />
+          <entry key="data_formats" value="5" />
           <entry key="py" value="7" />
           <entry key="pyi" value="2" />
           <entry key="txt" value="12" />
@@ -51,8 +54,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSV" value="28" />
-          <entry key="PLAIN_TEXT" value="23" />
+          <entry key="CSV" value="29" />
+          <entry key="PLAIN_TEXT" value="24" />
           <entry key="Python" value="7" />
           <entry key="PythonStub" value="2" />
         </counts>
@@ -61,28 +64,28 @@
         <counts>
           <entry key="Python Console" value="549" />
           <entry key="csv" value="2" />
-          <entry key="data_formats" value="552" />
+          <entry key="data_formats" value="1061" />
           <entry key="dummy" value="30" />
-          <entry key="py" value="7410" />
+          <entry key="py" value="7427" />
           <entry key="txt" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSV" value="2" />
-          <entry key="PLAIN_TEXT" value="593" />
-          <entry key="Python" value="7959" />
+          <entry key="PLAIN_TEXT" value="1102" />
+          <entry key="Python" value="7976" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1944">
-              <caret line="29" column="41" lean-forward="true" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+            <state relative-caret-position="334">
+              <caret line="546" selection-start-line="546" selection-end-line="558" selection-end-column="42" />
               <folding>
                 <element signature="e#901#910#0" expanded="true" />
                 <element signature="e#1754#1831#0" />
@@ -176,10 +179,25 @@
                 <element signature="e#19039#19803#0" />
                 <element signature="e#19151#19612#0" />
                 <element signature="e#19713#19803#0" />
-                <element signature="e#19873#21734#0" />
+                <element signature="e#21809#30137#0" />
+                <element signature="e#22203#22417#0" />
+                <element signature="e#22282#22417#0" />
+                <element signature="e#22533#22701#0" />
+                <element signature="e#22568#22701#0" />
+                <element signature="e#22828#29745#0" />
                 <element signature="e#26271#29688#0" />
                 <element signature="e#29867#30137#0" />
+                <element signature="e#30212#30309#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data_formats">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="624">
+              <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -195,7 +213,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>1582189288468</find>
       <find>1582260378479</find>
       <find>67&quot;</find>
       <find>1582257537323</find>
@@ -225,6 +242,7 @@
       <find>\n</find>
       <find>values.</find>
       <find>skip</find>
+      <find>sleep</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -233,11 +251,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/data_formats" />
         <option value="$PROJECT_DIR$/package_to_category_map.txt" />
         <option value="$PROJECT_DIR$/package_to_category_map.csv" />
-        <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/features.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/data_formats" />
       </list>
     </option>
   </component>
@@ -259,7 +277,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -271,6 +288,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -363,7 +381,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16364606" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16684435" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -377,7 +395,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.29252437" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.11713666" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.4355363" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -426,17 +444,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data_formats">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" column="17" selection-start-line="19" selection-end-line="19" selection-end-column="17" />
-        </state>
+    <entry file="file://$PROJECT_DIR$/sensor_data_hrm.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1944">
-          <caret line="29" column="41" lean-forward="true" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+        <state relative-caret-position="334">
+          <caret line="546" selection-start-line="546" selection-end-line="558" selection-end-column="42" />
           <folding>
             <element signature="e#901#910#0" expanded="true" />
             <element signature="e#1754#1831#0" />
@@ -530,10 +547,23 @@
             <element signature="e#19039#19803#0" />
             <element signature="e#19151#19612#0" />
             <element signature="e#19713#19803#0" />
-            <element signature="e#19873#21734#0" />
+            <element signature="e#21809#30137#0" />
+            <element signature="e#22203#22417#0" />
+            <element signature="e#22282#22417#0" />
+            <element signature="e#22533#22701#0" />
+            <element signature="e#22568#22701#0" />
+            <element signature="e#22828#29745#0" />
             <element signature="e#26271#29688#0" />
             <element signature="e#29867#30137#0" />
+            <element signature="e#30212#30309#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_formats">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
         </state>
       </provider>
     </entry>

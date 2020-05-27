@@ -18,3 +18,49 @@ GEOFENCE:               enter time, exit time, location id
 LOCATION_GPS:           timestamp, latitude, longitude, accuracy, altitude(in meters)
 SCREEN_ON_OFF:          start time, end time, duration
 APPLICATION_USAGE:      start time, end time, package name
+
+
+Final features extracted from above raw data:
+
+1. Duration of STILL/WALKING/RUNNING/BICYCLE/ON_FOOT/TILTING/UNKNOWN
+2. Frequency of STILL/WALKING/RUNNING/BICYCLE/ON_FOOT/TILTING/UNKNOWN
+3. Phone call duration
+4. Phone call frequency
+5. Phone call Incoming/Outgoing ratio
+6. Audio Min. loudness during phone call
+7. Audio Max. loudness during phone call
+8. Audio Mean. loudness during phone call
+9. Audio Min. loudness
+10. Audio Max. loudness
+11. Audio Mean. loudness
+12. Total distance covered
+13. Number of places
+14. Max. distance
+15. Radius of Gyration
+16. Max. distance from HOME
+17. Stay duration duration at HOME
+18. Unlock duration at HOME
+19. Entertainment & Music
+20. Utilities
+21. Shopping
+22. Games & Comics
+23. Unknown & Background
+24. Health & Wellness
+25. Social & Communication
+26. Education
+27. Travel
+28. Art & Design & Photo
+29. News & Magazine
+30. Food & Drink
+31. Others
+32. Sleep dur.
+
+
+
+
+
+
+
+
+
+
